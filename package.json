@@ -7,6 +7,10 @@
   "author": "cstmth",
   "license": "proprietary",
   "private": true,
+  "scripts": {
+    "start": "nodemon",
+    "deploy": "nodemon ./app/utils/deployCommands.ts"
+  },
   "dependencies": {
     "@types/node": "^17.0.15",
     "discord.js": "^13.6.0",
