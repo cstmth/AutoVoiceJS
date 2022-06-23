@@ -1,0 +1,12 @@
+{
+  "environment": "dev",
+  "dev": {
+    "token": "token goes here",
+    "appId": "app id goes here",
+    "guildId": "dev test guild id goes here"
+  },
+  "prod": {
+    "token": "token goes here",
+    "appId": "app id goes here"
+  }
+}
